@@ -8,7 +8,7 @@ namespace Zadanie_DZ_Day3_v1
 {
     class Program
     {
-        public const int MaxV = 5;
+        public const int MaxV = 5; //максимальное количество танков
         static Random rnd = new Random();
         static void Main(string[] args)
         {
